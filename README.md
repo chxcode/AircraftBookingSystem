@@ -2,6 +2,10 @@
 # 飞机订票系统（Java GUI）
 A simple system about booking 
 
+如需要此完整项目，请关注微信公众号：Worldhello ，回复：飞机订票系统 
+
+![微信公众号](http://pan.qingning99.cn/data/User/admin/home/data/articalePicture/qrcode_for_gh_6f974d85ab88_258.jpg)
+
 ------------------------------------------------
 【飞机订票系统】
 
